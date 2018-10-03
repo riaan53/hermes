@@ -1,4 +1,4 @@
-module gitlab.com/coinator/hermes
+module github.com/riaan53/hermes
 
 require (
 	github.com/Masterminds/semver v1.4.2 // indirect
